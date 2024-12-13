@@ -37,7 +37,7 @@ This Python script interacts with the Imgur API to retrieve image URLs from a sp
    - Navigate to the folder where the script is saved.
    - Execute the script:
      ```bash
-     python fetch_imageurl2.py
+     python fetch_imageurl.py
      ```
 
 3. **Provide Required Inputs**:
