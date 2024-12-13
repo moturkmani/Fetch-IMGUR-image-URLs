@@ -41,7 +41,7 @@ This Python script interacts with the Imgur API to retrieve image URLs from a sp
      ```
 
 3. **Provide Required Inputs**:
-   - use Notepad++ to enter your Imgur Client ID and Album ID in the top section of the python script.
+   - use [Notepad++](https://notepad-plus-plus.org/downloads/) to enter your Imgur Client ID and Album ID in the top section of the python script.
    - Choose to use an existing JSON file or create a new one.
 
 4. **JSON Output**:
